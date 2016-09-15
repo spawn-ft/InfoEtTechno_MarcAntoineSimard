@@ -1,2 +1,2 @@
-contenu du fichier 1
+contenu du fichier 1 dans master
 ceci vient detre ajouté
