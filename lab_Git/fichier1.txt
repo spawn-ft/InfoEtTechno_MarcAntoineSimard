@@ -1,2 +1,6 @@
-contenu du fichier 1 dans master
+<<<<<<< HEAD
+contenu du fichier 1 dans les branches fusionnees
+=======
+contenu du fichier 1 dans la nouvelle branche
+>>>>>>> brindille
 ceci vient detre ajouté
