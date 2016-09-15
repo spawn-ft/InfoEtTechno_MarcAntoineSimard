@@ -1,2 +1,2 @@
-contenu du fichier 1
+contenu du fichier 1 dans la nouvelle branche
 ceci vient detre ajouté
